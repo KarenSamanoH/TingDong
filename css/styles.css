@@ -1,0 +1,18 @@
+body{
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+.principal-title{
+    font-size: 3rem;
+    font-family: Montserrat;
+    line-height: 1.5;
+}
+
+.container-fluid{
+padding: 3% 15%;    
+}
